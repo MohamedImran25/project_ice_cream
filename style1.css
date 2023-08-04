@@ -1,0 +1,6 @@
+.border{
+    width: 1250px;
+    height: 800px;
+    border: 2px solid red;
+    margin: auto;
+}
