@@ -1,51 +1,11 @@
-@font-face {
-    font-family: heading;
-    src: url(Poppins\,Roboto/);
+body{
+    background-color: greenyellow;
 }
-@font-face {
-    font-family: paragraph;
-    src: url(Lunasima/Lunasima-Regular.ttf);
-}
-/* .border{ 
-    width: 1285px;
-    height: 800px;
-    border: 1px solid black;
-    margin: auto;
-    display: inline-block;
-  } */
-.img{
-    width: 600px;
-    height: 725px;
-    /* border: 2px solid slateblue; */
-    display: inline-block;
-    
-}
-.img img{
-    width: 600px;
-    height: 725px;
-    
-}
-.content{
-    width: 450px;
-    height: 450px;
-    /* border: 1px solid red; */
-    display: inline-block;
-    position: relative;
-    top: -400px;
+.form{
     text-align: center;
-    margin: auto;
-    padding: 75px;
-    
-    
+    line-height: 32px;
+   
 }
- p{
-    font-size: 18px;
-    font-weight: 100;
-    font-family: paragraph;
-}
-h2{
-    font-size:55px;
-    letter-spacing: 2px;
-    font-family: heading;
-    
+h4{
+color:darkorange;
 }
